@@ -9,6 +9,8 @@ Se desarrolla una aplicación móvil para clientes en Android (java) y SQLite.
 
 - Luis Felipe Hoyos Londoño
 - Jhon Fredy Duarte Vargas
+- Juan Sebastian Vasquez Martinez
+- David Fernando Calvo Sanchez
 
 ### Plataformas de Desarrollo de Software
 
@@ -16,4 +18,4 @@ Semana 7
 
 PROFESOR: FRANK JAIRO CASTILLO PADILLA
 
-Febrero-2023
+Marzo-2023
